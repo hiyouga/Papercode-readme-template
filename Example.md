@@ -8,6 +8,8 @@ You can download the paper via: [[Github]](paper.pdf) [[DOI]](https://doi.org/10
 
 RepWalk effectively utilizes the dependency grammar to tackle the aspect-level sentiment classification task via performing a replicated random walk on the syntax graph for learning a better sentence representation.
 
+![](assets/example.jpg)
+
 ## Abstract
 
 Aspect-level sentiment classification (ALSC) aims at predicting the sentiment polarity of a specific aspect term occurring in a sentence. This task requires learning a representation by aggregating the relevant contextual features concerning the aspect term. Existing methods cannot sufficiently leverage the syntactic structure of the sentence, and hence are difficult to distinguish different sentiments for multiple aspects in a sentence. We perceive the limitations of the previous methods and propose a hypothesis about finding crucial contextual information with the help of syntactic structure. For this purpose, we present a neural network model named RepWalk which performs a replicated random walk on a syntax graph, to effectively focus on the informative contextual words. Empirical studies show that our model outperforms recent models on most of the benchmark datasets for the ALSC task. The results suggest that our method for incorporating syntactic structure enriches the representation for the classification.
@@ -56,7 +58,7 @@ data
 ### Download the pretrained embeddings:
 
 - Download pre-trained word vectors [here](https://nlp.stanford.edu/projects/glove/).
-- Extract the [glove.840B.300d.zip](http://nlp.stanford.edu/data/wordvecs/glove.840B.300d.zip) to the `glove` folder.
+- Extract the [glove.840B.300d.zip](http://nlp.stanford.edu/data/glove.840B.300d.zip) to the `glove` folder.
 
 ## Usage
 

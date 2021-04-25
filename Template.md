@@ -8,6 +8,8 @@ You can download the paper via: [[Github]](xx.pdf) [[DOI]](https://doi.org/xx/xx
 
 [Summarize your work in one sentence]
 
+![Insert a preview image here](**.jpg)
+
 ## Abstract
 
 [Paste the abstract here]
