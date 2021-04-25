@@ -60,13 +60,13 @@ data
 
 ## Usage
 
-### Train the model:
+### Training:
 
 ```bash
 python main.py --arg1 arg1 --arg2 arg2
 ```
 
-### Evaluate the model:
+### Evaluation:
 
 ```bash
 python main.py --evaluate --arg1 arg1 --arg2 arg2
