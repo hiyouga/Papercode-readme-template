@@ -41,7 +41,7 @@ pip install -r requiresments.txt
 - The directory structure will be as follows:
 ```
 data
-├── sst1
+└── sst1
    ├── train.txt
    ├── dev.txt
    └── test.txt
@@ -53,8 +53,8 @@ data
 
 ### Download the pretrained embeddings (or models):
 
-- Download pre-trained word vectors [here](https://github.com/stanfordnlp/GloVe#download-pre-trained-word-vectors).
-- Extract the [glove.840B.300d.zip](http://nlp.stanford.edu/data/wordvecs/glove.840B.300d.zip) to the `glove` folder.
+- Download pre-trained word vectors [here](https://nlp.stanford.edu/projects/glove/).
+- Extract the [glove.840B.300d.zip](http://nlp.stanford.edu/data/glove.840B.300d.zip) to the `glove` folder.
 
 ## Usage
 
@@ -81,7 +81,7 @@ python main.py --evaluate --arg1 arg1 --arg2 arg2
 If this work is helpful, please cite as:
 
 ```bibtex
-@inproceedings{[author's first name][year][abbr],
+@inproceedings{[author_first_name][year][abbr],
   title={[paper title]},
   author={[authors]},
   booktitle={[venue]},

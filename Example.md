@@ -55,7 +55,7 @@ data
 
 ### Download the pretrained embeddings:
 
-- Download pre-trained word vectors [here](https://github.com/stanfordnlp/GloVe#download-pre-trained-word-vectors).
+- Download pre-trained word vectors [here](https://nlp.stanford.edu/projects/glove/).
 - Extract the [glove.840B.300d.zip](http://nlp.stanford.edu/data/wordvecs/glove.840B.300d.zip) to the `glove` folder.
 
 ## Usage
