@@ -2,7 +2,7 @@
 
 Code and dataset for our AAAI 2020 paper "Replicate, Walk, and Stop on Syntax: an Effective Neural Network Model for Aspect-Level Sentiment Classification".
 
-You can download the paper via: [[Github]](paper.pdf) [[DOI]](https://doi.org/10.1609/aaai.v34i05.6517).
+You can download the paper via: [[Github]](https://github.com/hiyouga/RepWalk/blob/master/paper.pdf) [[DOI]](https://doi.org/10.1609/aaai.v34i05.6517).
 
 ## One-Sentence Summary
 
