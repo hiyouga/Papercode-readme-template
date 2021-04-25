@@ -75,7 +75,7 @@ python main.py --evaluate --arg1 arg1 --arg2 arg2
 ## File Specifications [Optional]
 
 - **model.py**: Description for the model architecture.
-- **data.utils.py**: Used functions for data preprocessing.
+- **data_utils.py**: Used functions for data preprocessing.
 - …
 
 ## Citation
